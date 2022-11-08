@@ -111,7 +111,9 @@ article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
-
+article img {
+	float: right;
+}
 /* the styles for the aside */
 
 main aside {
